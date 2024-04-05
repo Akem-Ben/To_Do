@@ -1,0 +1,9 @@
+Backend - install dependencies
+
+- setup server-
+  setup database- 
+  start writing the controllers
+  - Test each one with postman
+  
+  Frontend- install dependencies- 
+  One component: modal- One page: main pageMain page - An input field- A “click here to add task button”- Tasks are populated in a table with the following headings:Item nameDurationActionsFor each item:Item nameDurationMark as completed buttonEdit buttonDelete Button
